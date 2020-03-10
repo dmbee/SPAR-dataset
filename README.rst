@@ -46,24 +46,25 @@ The binary data can be loaded as follows in python::
 
 DEMO
 ----
-Demo.ipynb contains python code for loading the data and classifying it using the seglearn library.
+Demo.ipynb contains python code for loading the data and classifying it using the
+`seglearn <https://github.com/dmbee/seglearn>`_  library.
 
 
 AUTHORS
 -------
-David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Stewart McLachlin
-
-University of Toronto
-Toronto, Ontario, Canada.
-
-University of Waterloo
-Waterloo, Ontario, Canada
+| David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Stewart McLachlin
+|
+| University of Toronto
+| Toronto, Ontario, Canada.
+|
+| University of Waterloo
+| Waterloo, Ontario, Canada
 
 
 CONTACT INFO
 ------------
-David Burns
-d.burns@utoronto.ca
+| David Burns
+| d.burns@utoronto.ca
 
 
 CITATION REQUEST
