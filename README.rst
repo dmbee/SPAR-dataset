@@ -1,5 +1,5 @@
-Shoulder Physiotherapy Activity Recognition (SPAR) Data Set
-===========================================================
+Shoulder Physiotherapy Activity Recognition Data Set
+====================================================
 
 DESCRIPTION
 -----------
