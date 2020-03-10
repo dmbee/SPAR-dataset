@@ -53,12 +53,8 @@ Demo.ipynb contains python code for loading the data and classifying it using th
 AUTHORS
 -------
 | David Burns, Nathan Leung, Michael Hardisty, Cari Whyne, Stewart McLachlin
-|
-| University of Toronto
-| Toronto, Ontario, Canada.
-|
-| University of Waterloo
-| Waterloo, Ontario, Canada
+| University of Toronto. Canada.
+| University of Waterloo. Canada.
 
 
 CONTACT INFO
